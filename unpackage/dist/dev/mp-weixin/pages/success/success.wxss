@@ -1,0 +1,128 @@
+
+.top.data-v-d77f41e4{
+	display:-webkit-box;
+	display:-webkit-flex;
+	display:flex;
+	height:5%;
+	width:90%;
+	background-color: red;
+	margin:0 auto;
+	background-color: #e1e0e5;
+	margin-top:20rpx;
+	-webkit-border-radius: 20rpx;
+	        border-radius: 20rpx;
+}
+.topleft.data-v-d77f41e4{
+	width:10%;
+	height:100%;
+	margin-left:2%;
+}
+.topright.data-v-d77f41e4{
+	width:85%;
+	height:100%;
+	margin:0 auto;
+}
+.center.data-v-d77f41e4{
+	width:90%;
+	height:30%;
+	background-color: white;
+	margin:0 auto;
+	margin-top:40rpx;
+	-webkit-border-radius: 30rpx;
+	        border-radius: 30rpx;
+	padding:5%;
+	-webkit-box-shadow: 4rpx 4rpx 10rpx #888888;
+	        box-shadow: 4rpx 4rpx 10rpx #888888;
+}
+.centertop.data-v-d77f41e4{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	height:40%;
+	border-bottom:1px solid #e1e1e1;
+	width:100%;
+}
+.centertopleft.data-v-d77f41e4{
+	display: inline-block;
+	height:70%;
+	margin-top:3%;
+	width:15%;
+	text-align: center;
+	line-height: 90rpx;
+	color:white;
+	font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	font-weight: bold;
+	font-size: 40rpx;
+	background-color: #39B54A;
+	-webkit-border-radius: 50%;
+	        border-radius: 50%;
+}
+.centertopright.data-v-d77f41e4{
+	height:70%;
+	width:70%;
+	margin-top:3%;
+	margin-left:3%;
+}
+.centertoprighttop.data-v-d77f41e4{
+	height:65%;
+	line-height: 60rpx;
+	width:100%;
+	font-size: 30rpx;
+}
+.centertoprightcenter.data-v-d77f41e4{
+	height:30%;
+	color: #b4b4b4;
+	width:100%;
+}
+.centertoprightbottom.data-v-d77f41e4{
+	height:30%;
+	width: 100%;
+	color:#abacb6;
+}
+.centerbottom.data-v-d77f41e4{
+	height:50%;
+	margin-top:5%;
+	width:100%;
+}
+.centerbottomtop.data-v-d77f41e4{
+	height:40%;
+	width:100%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.centerbottomtopleft.data-v-d77f41e4{
+	height:100%;
+	width:10%;
+	margin-left:5%;
+}
+.centerbottomtopright.data-v-d77f41e4{
+	width:70%;
+	height:100%;
+	margin-left:5%;
+	font-size: 40rpx;
+	font-weight: bold;
+	line-height: 60rpx;
+}
+.centerbottomlow.data-v-d77f41e4{
+	height:60%;
+	margin-top:10rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	padding-top:4%;
+	padding-bottom:4%;
+}
+.centerbottomlowbox.data-v-d77f41e4{
+	height:100%;
+	width:auto;
+	margin-left:4%;
+	padding-left:20rpx;
+	padding-right: 20rpx;
+	line-height: 50rpx;
+	color:#0867ff;
+	-webkit-border-radius: 10rpx;
+	        border-radius: 10rpx;
+	background-color: #dbe7ff;
+}
+

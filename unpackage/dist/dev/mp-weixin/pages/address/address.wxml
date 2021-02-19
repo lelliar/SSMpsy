@@ -1,0 +1,1 @@
+<view><map style="width:100%;height:100vh;" id="myMap" longitude="{{long}}" latitude="{{lat}}" layer-style="{{3}}" max-scale="{{true}}" show-location="{{true}}" enable-building="{{true}}"></map></view>
