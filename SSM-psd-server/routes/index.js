@@ -56,10 +56,10 @@ module.exports = app =>{
     const upload = multer({
         storage: MAO({
              config: {//填写自己阿里云oss的详细内容
-                 region: 'oss-cn-beijing',//地址
-                 accessKeyId: 'LTAI4G8GGnHL7VBnJSY7KYgA',//accessKeyId
-                 accessKeySecret: 'fvsgLgBMdH1J2hEV1wCJXYroCpnrYe',//accessKeySecret
-                 bucket: 'ssmpsd1'//用户名
+                 region: '',//地址
+                 accessKeyId: '',//accessKeyId
+                 accessKeySecret: '',//accessKeySecret
+                 bucket: ''//用户名
              }
          })
         })
